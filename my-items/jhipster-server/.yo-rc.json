@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.swkj.jhipster",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.4.2",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "org.swkj.jhipster",
+    "packageFolder": "org/swkj/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "YjJiOWIyOTAwNjc1MmQ4ODE2NzA0ZWUwOTM4ZWIzYTgwODlmZmY1YzIwMzBjMjk5YjdhNmM5NjJiMGU2MzJkM2Q4YzVlMmMzZmY1MTA3MDk4NGRiNmVlMzE3NGM1NTE3NzQxMmMxYmJlYzY4MjRhNDE4NzAwN2MwZDY2Zjg3NmE=",
+    "enableTranslation": true,
+    "languages": [
+      "zh-cn"
+    ],
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "skipClient": true
+  }
+}
